@@ -15,5 +15,5 @@ export const Skills = [
   { skill: "ReactJS", icon: RiReactjsLine },
   { skill: "Redux", icon: TbBrandRedux },
   { skill: "TailwindCSS", icon: RiTailwindCssFill },
-  { skill: "ChakraUI", icon: SiChakraui },
+  
 ];
